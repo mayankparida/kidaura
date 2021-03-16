@@ -28,6 +28,8 @@ This is how the application looks when you run it.
 
 [App Run Video](https://drive.google.com/file/d/1IkflPamBcrKcM4gG40mAfXCmyOxJWY1M/view?usp=sharing)
 
+[App apk file](https://drive.google.com/file/d/1Ix1YK31FNz9poLiQWWVmTLp1uhwYSCAq/view?usp=sharing)
+
 
 ## Authors:
 * [Mayank Parida](https://www.linkedin.com/in/mayankparida18/)
